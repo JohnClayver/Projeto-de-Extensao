@@ -1,2 +1,11 @@
+# Projeto de Extenão para Faculdade
 
-![Captura de tela_4-5-2025_17260_127 0 0 1](https://github.com/user-attachments/assets/a8ead8fb-dedc-4aa6-b6d1-8d31b8da57f2)
+## Descrição
+Este é um projeto para alerta a comunidade sobre os perigos e como se prevenir da dengue.
+
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- Tailwind CSS
+
+![image](https://github.com/user-attachments/assets/87a23ac7-a73c-4976-b304-3932222fa9f9)
